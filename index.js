@@ -30,7 +30,6 @@ client.on('ready',()=>{
 client.on("guildMemberAdd", async (member)  => {
  
     try{
-         var tag = "⍭";
          var giris_rolu = "";
          var giris_kanal_id= "";
          var name = member.nickname;
@@ -62,7 +61,7 @@ client.on("guildMemberAdd", async (member)  => {
         var kanal = client.channels.cache.get("692735490348023858");    
         const role = '696839616602308669';
         await new Promise(resolve => setTimeout(resolve, 1000));
-        member.setNickname( tag + " İsimsiz");
+        member.setNickname( " İsimsiz");
         await new Promise(resolve => setTimeout(resolve, 1000));
         member.roles.add([role]);
         await new Promise(resolve => setTimeout(resolve, 1000));
