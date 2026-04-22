@@ -29,17 +29,3 @@
 
 📫 İletişim
 Caner ASLAN - caneraslanm@gmail.com
-
-
----
-
-### GitHub "About" Kısmı İçin Önerim:
-Bu proje için en etkili açıklama şu olacaktır:
-> **"A modular and scalable Discord moderation bot built with Discord.js. Features a dynamic command handler for efficient server management."**
-
-### Topics (Etiketler):
-`discord-js` `discord-bot` `moderation` `command-handler` `node-js` `javascript` `server-management`
-
-Bu botun en güçlü yanlarından biri **"Command Handler"** (Komut Yükleyici) yapısına sahip olması. README'de buna özellikle vurgu yaptım çünkü bu, senin temiz ve ölçeklenebilir kod yazabildiğini gösteren önemli bir teknik detay.
-
-Başka bir repo için devam edelim mi?
